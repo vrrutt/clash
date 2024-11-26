@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,581658.best
+DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,7777777.buzz
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
