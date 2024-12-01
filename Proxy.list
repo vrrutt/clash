@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,581658.best
 DOMAIN-SUFFIX,aca.best
 DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,chirmyram.com
+DOMAIN-SUFFIX,sharepoint.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
