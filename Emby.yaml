@@ -206,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,yunti.online
   - DOMAIN-SUFFIX,zi0.icu
   - DOMAIN-SUFFIX,zox.show
+  - DOMAIN-SUFFIX,yhemby.top
   - IP-CIDR,135.180.189.141/32,no-resolve
   - IP-CIDR,152.53.54.201/32,no-resolve
   - IP-CIDR,152.53.55.180/32,no-resolve
