@@ -207,6 +207,7 @@ payload:
   - DOMAIN-SUFFIX,zi0.icu
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,yhemby.top
+  - DOMAIN-SUFFIX,ch.feiyue.lol
   - IP-CIDR,172.67.129.11/32,no-resolve
   - IP-CIDR,135.180.189.141/32,no-resolve
   - IP-CIDR,152.53.54.201/32,no-resolve
