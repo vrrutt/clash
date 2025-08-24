@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "odysseyplus.site",
+        "emby.xeton.dev",
+        "embymv.tk",
+        "emby.ytoo.li",
+        
+      ]
+    }
+  ]
+}
