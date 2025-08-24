@@ -1,15 +1,18 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "odysseyplus.site",
-        "emby.xeton.dev",
-        "embymv.tk",
-        "emby.ytoo.li",
-        "feiyue.lol",
-        "cn2gias.uk"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_keyword": [
+                "dl-a10b-",
+                "dl-z01a-"
+            ],
+            "domain_suffix": [
+                "cfgtv.ii00.cc",
+                "m.mobaiemby.site",
+                "cdn.newneeship.com",
+                "hk.newneeship.com",
+                "v1.uhdnow.com"
+            ]
+        }
+    ]
 }
